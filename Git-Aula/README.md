@@ -1,7 +1,8 @@
 # GIT E GITHUB
 
 Guia prático para iniciantes.
-ERRRADO CORRIGIR >>>> (LINK-YOUTUBE)[https://www.youtube.com/watch?v=2alg7MQ6_sI&t=7s]
+
+[LINK-YOUTUBE](https://www.youtube.com/watch?v=2alg7MQ6_sI&t=7s)
 
 ### Instalação
 
@@ -37,3 +38,4 @@ https://git-scm.com/download
 * `git push` // envia alterações locais para o repositório remoto
 * `git clone` // clonar um projeto / repositório
 * `git pull` // puxa do repositório remoto
+* `git pull` --rebase origin master
