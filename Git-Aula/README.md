@@ -1,7 +1,7 @@
 # GIT E GITHUB
 
 Guia prático para iniciantes.
-(LINK-YOUTUBE)[https://www.youtube.com/watch?v=2alg7MQ6_sI&t=7s]
+ERRRADO CORRIGIR >>>> (LINK-YOUTUBE)[https://www.youtube.com/watch?v=2alg7MQ6_sI&t=7s]
 
 ### Instalação
 
