@@ -1,7 +1,11 @@
 # Git-and-GitHub
-Links e resumos sobre Git e GitHub
+<b>Links e resumos sobre Git e GitHub</b>
+[Como usar Git e Github na prática: Guia para iniciantes | Mayk Brito](https://www.youtube.com/watch?v=2alg7MQ6_sI)
 
-Principais comandos:
+[Git e Github para iniciantes -- Loiane Groner](https://www.youtube.com/watch?v=UMhskLXJuq4&t=115s)
+
+
+<br><h5>Principais comandos:</h5>
 * `git init` // inicia a linha do tempo
 * `git add` // adiciona ou atualiza mudanças para irem para a linha do tempoo
 * `git commit` // adiciona um ponto na linha do tempo
