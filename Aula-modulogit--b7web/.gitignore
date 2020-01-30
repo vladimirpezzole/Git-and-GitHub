@@ -1,0 +1,6 @@
+# https://github.com/github/gitignore
+# Site de Gitignore prontos
+# 
+*.sql
+senha.txt
+
