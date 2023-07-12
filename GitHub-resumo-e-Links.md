@@ -7,27 +7,32 @@ ________________________________________________________________________________
 **https://loiane.com/2013/11/screencast-git-e-github-para-iniciantes/**
 
 <hr>
+
 **Harlley Oliveira** — O QUE É GITHUB NA PRÁTICA
 
 **https://www.youtube.com/watch?v=fG6gl9ne6CE&t=16s**
 
 <hr>
+
 **Da2K.com.br** — Git e Github - Do clone ao pull request
 
 **https://blog.da2k.com.br/2015/02/04/git-e-github-do-clone-ao-pull-request/**
 
 <hr>
+
 **Canal Dev Samurai** — GitHub | Guia Completo do Iniciante
 
 **https://www.youtube.com/watch?v=UbJLOn1PAKw**
 
 <hr>
+
 **Código Fonte TV** — GitHub, GitLab ou Bitbucket? Qual nós usamos! 
 
-**https://www.youtube.com/watch?v=ze9--J4PJ_4
+**https://www.youtube.com/watch?v=ze9--J4PJ_4**
 
 
 <hr>
+
 **GitHub -- Online** 
 
 **https://github.com** — Links site para download Git
