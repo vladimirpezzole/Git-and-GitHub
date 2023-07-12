@@ -4,8 +4,12 @@
 
 [Git e Github para iniciantes -- Loiane Groner](https://www.youtube.com/watch?v=UMhskLXJuq4&t=115s)
 
+[Comandos Básicos de GIT -- Nycole Xavier](https://www.hostinger.com.br/tutoriais/comandos-basicos-de-git)
 
-<br><h5>Principais comandos:</h5>
+<hr>
+
+<h5>Principais comandos:</h5>
+
 * `git init` // inicia a linha do tempo
 * `git add` // adiciona ou atualiza mudanças para irem para a linha do tempoo
 * `git commit` // adiciona um ponto na linha do tempo
@@ -23,3 +27,19 @@
 * `git reset --mixed <commit>` // Retorna para antes de adicionar e fazer o commit.
 * `git reset --hard <commit>` // Retorna para o último commit perdendo as alterações presentes não commitadas.
 * `git revert --no-edit <commit>` // Volta ao commit escolhido mas não apaga os commit já realizados.
+
+<hr>
+
+## Padrão de commit (para iniciantes) 
+[_Fonte_](https://www.linkedin.com/pulse/padrão-de-commit-para-iniciantes-nycole-xavier/?originalSubdomain=pt)
+
+Essas são os principais tipos que o Angular Commit Message Guidelines recomenda:
+
+- **docs:** Se mudar algo na documentação.
+- **feat:** Adicionou alguma funcionalidade? Esse é o ideal! 
+- **fix:** Quando você finalmente consertar aquele bug;
+- **perf:** Deu aquela melhorada no desempenho? Use esse!;
+- **refactor:** Qualquer mudança que tenha sido feita no código que não alterou a funcionalidade;
+- **style:** Mudanças na formatação do próprio código, como por exemplo, um espaço em branco, formatação…
+
+  
