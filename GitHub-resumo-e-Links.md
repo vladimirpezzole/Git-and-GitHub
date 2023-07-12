@@ -4,7 +4,7 @@ ________________________________________________________________________________
 
 --------> Loiane Groner
 — Screencast: Git e Github para Iniciantes
->> https://loiane.com/…/screencast-git-e-github-para-iniciant…/
+>> https://loiane.com/2013/11/screencast-git-e-github-para-iniciantes/
 
 --------> Harlley Oliveira
 — O QUE É GITHUB NA PRÁTICA
@@ -12,7 +12,7 @@ ________________________________________________________________________________
 -
 -------> Da2K.com.br
 — Git e Github - Do clone ao pull request
->> https://blog.da2k.com.br/…/git-e-github-do-clone-ao-pull-r…/
+>> https://blog.da2k.com.br/2015/02/04/git-e-github-do-clone-ao-pull-request/
 
 --------> Canal Dev Samurai
 — GitHub | Guia Completo do Iniciante
